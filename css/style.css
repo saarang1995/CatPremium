@@ -1,0 +1,22 @@
+*{
+	background-color: #C4C4C4;
+    height: 100%;
+    width: 100%;
+}
+
+.main{
+	display: flex;
+	height: 100%;
+    width: 100%;
+}
+
+.cat-detail{
+    height: 100%;
+	border-left: 3px double black;
+	width: 70%;
+}
+
+.cat-list{
+	height: 100%;
+	width:30%;
+}
