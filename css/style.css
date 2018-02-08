@@ -1,6 +1,6 @@
 *{
 	background-color: #C4C4C4;
-    height: 100%;
+   /* height: 100%;*/
     width: 100%;
 }
 
@@ -11,12 +11,20 @@
 }
 
 .cat-detail{
-    height: 100%;
+    
 	border-left: 3px double black;
-	width: 70%;
+	/*width: 70%;*/
 }
 
 .cat-list{
 	height: 100%;
-	width:30%;
+	width:640px;
+}
+
+#catlist-img{
+	width: 640px;
+}
+
+li{
+	margin: 10px;
 }
